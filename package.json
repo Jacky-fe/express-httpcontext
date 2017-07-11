@@ -1,0 +1,27 @@
+{
+  "name": "express-httpcontext",
+  "version": "1.0.0",
+  "description": "an implement of HttpContext like java in express, support get current HttpRequest and HttpResponse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacky-fe/express-httpcontext.git"
+  },
+  "keywords": [
+    "express",
+    "http",
+    "context"
+  ],
+  "author": "jacky-fe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacky-fe/express-httpcontext/issues"
+  },
+  "homepage": "https://github.com/Jacky-fe/express-httpcontext#readme",
+  "dependencies": {
+    "continuation-local-storage": "^3.2.0"
+  }
+}
