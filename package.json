@@ -1,6 +1,6 @@
 {
   "name": "express-httpcontext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an implement of HttpContext like java in express, support get current HttpRequest and HttpResponse",
   "main": "index.js",
   "scripts": {

@@ -10,7 +10,7 @@ npm install express-httpcontext
 ## 使用
 ``` js
 // 首先添加中间件
-import express  from 'express;
+import express  from 'express';
 import  {  middleware }  from 'express-httpcontext';
 const app = express();
 app.use(middleware);
